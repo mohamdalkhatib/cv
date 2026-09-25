@@ -1,31 +1,34 @@
-# Mohamed Elkhateeb — Designer, Video Editor & E‑commerce Specialist
+# محمد محمد عبدالغني — Graphic Designer & Video Editor
 
-Available for **same-day freelance work** in Arabic and English.
+**متاح للعمل داخل السعودية والعمل عن بُعد**
 
-## What I can deliver
-- Salla / Zid store design, banners, product pages and landing pages
-- Graphic design for ads and social media
-- Professional product image cleanup and retouching
-- Reels / Shorts / paid-ad video editing
-- Premiere Pro + After Effects motion graphics
-- Photoshop / Illustrator
-- WordPress / HTML / CSS / JavaScript website work
-- Fast troubleshooting for storefront layout and mobile issues
+مصمم جرافيك + مونتير فيديوهات إعلانية + تطوير صفحات HTML / WordPress.
 
-## Fast paid trial
-I can start immediately with a small paid trial and deliver the first result the same day.
+- بداية الخبرة: **2016**
+- إجمالي الخبرة: **10 سنوات**
+- خبرة داخل السعودية: **4 سنوات**
+- Photoshop: متقدم
+- Premiere Pro: متقدم
+- After Effects: جيد جدًا
+- WordPress + HTML/CSS: جيد جدًا
+- تصوير منتجات، خصوصًا النظارات، باستخدام Canon ومعالجة احترافية على Photoshop
+- خبرة في محتوى المتاجر الإلكترونية والإعلانات والريلز
+- خبرة في فيديوهات مصنوعة بالذكاء الاصطناعي
 
-## Selected work / code
-- https://github.com/mohamdalkhatib/linas
-- https://github.com/mohamdalkhatib/linas2
-- https://github.com/mohamdalkhatib/Tamhed
-- https://github.com/mohamdalkhatib/mohamed-tamheed
+## الخبرات
+- شركة بن مروت للمواد الغذائية — مكة: تصميمات تسويقية وإعلانات رقمية
+- عبادي استوري — متجر ألعاب وبطاقات رقمية: بنرات، عروض وتجهيز محتوى
+- تطوير مواقع وصفحات — WordPress + HTML/CSS
+- ZIAR للبصريات: تصميم + مونتاج + صور منتجات + محتوى سوشيال
 
-## Contact
-Email: mizo01115212442@gmail.com
-GitHub: https://github.com/mohamdalkhatib
-
+## السيرة الذاتية الكاملة
+https://cv-sar.github.io/CV/
 
 ## Video Samples
 - [AUREL Luxury Perfume — 15s vertical ad](https://github.com/mohamdalkhatib/cv/raw/refs/heads/main/AUREL_Perfume_15s.mp4)
 - [Fishing Shorts — 30s Arabic vertical edit](https://github.com/mohamdalkhatib/cv/raw/refs/heads/main/Fishing_Shorts_30s.mp4)
+
+## Contact
+Email: mm01115212442@gmail.com
+WhatsApp Saudi: 0582823381
+WhatsApp Egypt: +201118063313
