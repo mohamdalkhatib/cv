@@ -24,3 +24,8 @@ I can start immediately with a small paid trial and deliver the first result the
 ## Contact
 Email: mizo01115212442@gmail.com
 GitHub: https://github.com/mohamdalkhatib
+
+
+## Video Samples
+- [AUREL Luxury Perfume — 15s vertical ad](https://github.com/mohamdalkhatib/cv/raw/refs/heads/main/AUREL_Perfume_15s.mp4)
+- [Fishing Shorts — 30s Arabic vertical edit](https://github.com/mohamdalkhatib/cv/raw/refs/heads/main/Fishing_Shorts_30s.mp4)
